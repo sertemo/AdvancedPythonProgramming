@@ -7,4 +7,7 @@
 
 ## Capítulos
 ### Chapter 01
--Profiling
+- Profiling
+
+### Chapter 04
+- Cython
