@@ -4,9 +4,10 @@ version = "0.1.0"
 description = "Pruebas con el código del libro Advanced Python Programming"
 authors = ["Sergio Tejedor"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10"
 matplotlib = "^3.8.4"
 cython = "^3.0.10"
 

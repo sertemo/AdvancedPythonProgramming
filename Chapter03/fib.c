@@ -1479,7 +1479,7 @@ static const char *__pyx_filename;
 /* #### Code section: filename_table ### */
 
 static const char *__pyx_f[] = {
-  "Chapter03\\\\fib.pyx",
+  "Chapter03/fib.pyx",
 };
 /* #### Code section: utility_code_proto_before_types ### */
 /* ForceInitThreads.proto */
@@ -1989,7 +1989,7 @@ static const char __pyx_k_name[] = "__name__";
 static const char __pyx_k_test[] = "__test__";
 static const char __pyx_k_is_coroutine[] = "_is_coroutine";
 static const char __pyx_k_Chapter03_fib[] = "Chapter03.fib";
-static const char __pyx_k_Chapter03_fib_pyx[] = "Chapter03\\fib.pyx";
+static const char __pyx_k_Chapter03_fib_pyx[] = "Chapter03/fib.pyx";
 static const char __pyx_k_asyncio_coroutines[] = "asyncio.coroutines";
 static const char __pyx_k_cline_in_traceback[] = "cline_in_traceback";
 /* #### Code section: decls ### */

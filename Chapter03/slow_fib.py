@@ -1,5 +1,5 @@
-def fib(n):
+def fib_py(n):
     if n <= 1:
         return n
     else:
-        return fib(n-1) + fib(n-2)
+        return fib_py(n-1) + fib_py(n-2)

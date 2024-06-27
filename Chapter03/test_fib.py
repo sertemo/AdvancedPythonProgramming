@@ -1,5 +1,16 @@
 """Después de compilar el fib.pyx, ejecuta este código para probarlo:"""
 
-from Chapter03.fib import fib
+from fib import fib
+from slow_fib import fib_py
 
-print(fib(10))
+import time
+
+
+s = time.perf_counter()
+print(fib(40))
+print("Versión Cython", time.perf_counter() - s)
+
+
+s = time.perf_counter()
+print(fib_py(40))
+print("Versión Python", time.perf_counter() - s)
