@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Pruebas con el código del libro Advanced Python Programming"
 authors = ["Sergio Tejedor"]
 readme = "README.md"
-package-mode = false
+package-mode = true
 
 [tool.poetry.dependencies]
 python = "^3.10"
